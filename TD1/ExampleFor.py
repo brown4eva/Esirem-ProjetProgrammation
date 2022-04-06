@@ -5,5 +5,5 @@ for i in range(len(a)):
     print(f" Le caractere { a [ i ]} est a la position { i } " )
     i = 0
     for c in a:
-        print(f" Le caractere { c } est a la position { c } " )
+        print(f" Le caractere { c } est a la position { i } " )
         i = i + 1
