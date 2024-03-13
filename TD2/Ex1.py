@@ -20,6 +20,6 @@ print(joueur)
 joueur.enregistrer_victoire()
 print(joueur)
 
-# Simulate another victory and print the updated status again
+# Simulate 2nd victory and print the updated status again
 joueur.enregistrer_victoire()
 print(joueur)
